@@ -5,4 +5,5 @@ class CategoryModel {
         this.description = description;
     }
 }
+
 module.exports = CategoryModel;

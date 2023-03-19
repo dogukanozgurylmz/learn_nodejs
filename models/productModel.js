@@ -7,4 +7,5 @@ class ProductModel {
         this.name = name;
     }
 }
+
 module.exports = ProductModel;
